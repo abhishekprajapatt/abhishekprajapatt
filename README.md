@@ -14,6 +14,7 @@
 - 💬 Ask me about LLMs, RAG, MLOps, or anything AI-related.
 - 📫 How to reach me: [Twitter](https://x.com/abhishekprajapatt).
 - 🎃 Fun fact: My GPU heats my room.
+- 🦍 Total Commits : <!--COMMITS_COUNT-->
 
 <div align="center">
   <picture>
