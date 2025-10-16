@@ -1,0 +1,32 @@
+name: Update Total Commits
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs daily
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Get total commits
+        id: commits
+        run: |
+          TOTAL=$(curl -s "https://api.github.com/search/commits?q=author:abhishekprajapatt" \
+          -H "Accept: application/vnd.github.cloak-preview" | jq '.total_count')
+          echo "total=$TOTAL" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          sed -i "s|<!--COMMITS_COUNT-->|${{ steps.commits.outputs.total }}|g" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "update total commits"
+          git push
