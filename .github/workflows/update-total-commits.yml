@@ -21,7 +21,7 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s|<!--COMMITS_COUNT-->|${{ steps.commits.outputs.total }}|g" README.md
+          sed -i "s|<!--COMMITS_COUNT-->.*|<!--COMMITS_COUNT--> ${{ steps.commits.outputs.total }}|g" README.md
 
       - name: Commit and push changes
         run: |
