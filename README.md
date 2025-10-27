@@ -27,7 +27,7 @@
 
 # 📈 Skills Progress
 
-*(Tracking my journey in AI, Systems, Robotics & more—daily commits incoming!)*
+*(Tracking my journey in AI, Systems, Quantum, Robotics & more—daily commits incoming soon!)*
 
 | 🧠 **AI/LLM** | 💾 **Memory/Chips** | ⚙️ **Systems/OS** | 🎨 **Graphics** | 📱 **Mobile Dev** | ☁️ **Cloud/Scale** | 🔧 **Core Tools** | 🤖 **Robotics** | ⚛️ **Quantum AI** | 🛡️ **Hacker** |
 |---------------|---------------------|-------------------|-----------------|---------------|--------------------|-------------------|-----------------|-------------------|---------------|
