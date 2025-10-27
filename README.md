@@ -2,11 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> 
 </p> 
 
-# Hi there, I'm Abhishek 🐰
+# Hey, I'm Abhishek **🐰**
 
 <!--👋🐰🦍🎃-->
 
-- **🎓** I'm CS Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India. Code grind daily.
+- **🎓** CS Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India. Code grind daily.
 - **🔭** Building RAG Pipelines. Data to AI magic.
 - **🤔** Scaling Models. Production beast mode.
 - **🌱** Learning Quantization. Fine-Tuning efficiency.
