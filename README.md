@@ -12,9 +12,10 @@
 - 🌱 I’m currently learning Model Quantization & Efficient Fine-Tuning.
 - 👯 I’m looking to collaborate on Open-Source LLMs and AI safety projects.
 - 💬 Ask me about LLMs, RAG, MLOps, or anything AI-related.
-- 📫 How to reach me: [Twitter](https://x.com/abhishekprajapatt).
 - 🎃 Fun fact: My GPU heats my room.
 - 🦍 Total Commits : <!--COMMITS_COUNT-->
+- 👾 Old GitHub Id: [GitHub](https://github.com/abhihshekprajapati532006)
+- 📫 How to reach me: [Twitter](https://x.com/abhishekprajapatt).
 
 <div align="center">
   <picture>
