@@ -14,7 +14,7 @@
 - **💬** Chat LLMs. RAG. MLOps. AI chaos.
 - **🎃** Fun Fact: GPU heats my room. Winter hack.
 - **🦍** Commits: <!--COMMITS_COUNT--> (Stacking wins).
-- **👾** Old GitHub: [Old Profile](https://github.com/abhihshekprajapati532006)
+- **👾** Old GitHub: [Old Profile](https://github.com/abhishekprajapati532006)
 - **📫** Reach: [X/Twitter](https://x.com/abhishekprajapatt) | [LinkedIn](https://linkedin.com/in/your-profile).
   
 <div align="center">
