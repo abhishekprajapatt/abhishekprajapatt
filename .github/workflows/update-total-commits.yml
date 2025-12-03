@@ -1,32 +1,28 @@
-name: Update Total Commits
+name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily
+    # Runs at 12am IST
+    - cron: '0 */8 * * *'
   workflow_dispatch:
-
 jobs:
-  update:
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Get total commits
-        id: commits
-        run: |
-          TOTAL=$(curl -s "https://api.github.com/search/commits?q=author:abhishekprajapatt" \
-          -H "Accept: application/vnd.github.cloak-preview" | jq '.total_count')
-          echo "total=$TOTAL" >> $GITHUB_OUTPUT
-
-      - name: Update README
-        run: |
-          sed -i "s|<!--COMMITS_COUNT-->.*|<!--COMMITS_COUNT--> ${{ steps.commits.outputs.total }}|g" README.md
-
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "update total commits"
-          git push
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: True
+          SHOW_PROFILE_VIEWS : False
+          SHOW_COMMIT : True
+          SHOW_DAYS_OF_WEEK : False
+          SHOW_LANGUAGE : False
+          SHOW_OS : False
+          SHOW_PROJECTS : False
+          SHOW_TIMEZONE : False
+          SHOW_EDITORS : False
+          SHOW_LANGUAGE_PER_REPO : False
+          SHOW_SHORT_INFO : False
+          SHOW_LOC_CHART : False
