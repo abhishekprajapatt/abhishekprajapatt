@@ -2,21 +2,23 @@
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> 
 </p> 
 
-# Hey, I'm Abhishek **🐰**
+# Hey, I'm Abhishek **🐯**
 
 <!--👋🐰🦍🐯🎃-->
 
 - **🎓** CS Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India. Code grind daily.
-- **🔭** Building RAG Pipelines. Data to AI magic.
-- **🤔** Scaling Models. Production beast mode.
-- **🌱** Learning Quantization. Fine-Tuning efficiency.
-- **👯** Collab on LLMs. AI Safety. Open-Source fire.
-- **💬** Chat LLMs. RAG. MLOps. AI chaos.
+- **⚡** High-Performance Computing. Systems Architecture (Rust/C++/CUDA).
+- **🧠** Scalable Machine Intelligence. Cognitive Systems Engineering.
+- **☁️** Distributed Cloud Infrastructure. Orchestration & DevOps.
+- **⚛️** Frontier Computing. Quantum AI & Autonomous Robotics (ROS).
+- **🛡️** Advanced Security. Offensive Research & Cryptography.
+- **📱** Cross-Platform Development. Building for Scale.
 - **🎃** Fun Fact: GPU heats my room. Winter hack.
-- **🦍** Commits: <!--COMMITS_COUNT--> (Stacking wins).
 - **👾** Old GitHub: [Old Profile](https://github.com/abhishekprajapati532006)
-- **📫** Reach: [X/Twitter](https://x.com/abhishekprajapatt) | [LinkedIn](https://linkedin.com/in/your-profile).
-  
+- **📫** Reach: [X/Twitter](https://x.com/abhishekprajapatt) | [LinkedIn](https://linkedin.com/in/your-profile) | [Email](prajapattabhishek@gmail.com)
+
+
+#### **🦍** Stacking wins:
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhishekprajapatt/abhishekprajapatt/blob/output/github-snake-dark.svg" />
