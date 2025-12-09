@@ -14,7 +14,6 @@
 - **🛡️** Advanced Security. Offensive Research & Cryptography.
 - **📱** Cross-Platform Development. Building for Scale.
 - **🎃** Fun Fact: GPU heats my room. Winter hack.
-- **👾** Old GitHub: [Old Profile](https://github.com/abhishekprajapati532006)
 - **📫** Reach: [X/Twitter](https://x.com/abhishekprajapatt) | [LinkedIn](https://linkedin.com/in/your-profile) | [Email](prajapattabhishek@gmail.com)
 
 
