@@ -6,7 +6,7 @@
 
 <!--👋🐰🦍🐯🎃-->
 
-- **🎓** CS Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India. Code grind daily.
+- **🎓** Computer Science Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India. Code grind daily.
 - **⚡** High-Performance Computing. Systems Architecture (Rust/C++/CUDA).
 - **🧠** Scalable Machine Intelligence. Cognitive Systems Engineering.
 - **☁️** Distributed Cloud Infrastructure. Orchestration & DevOps.
