@@ -14,7 +14,7 @@
 - **🛡️** Advanced Security. Offensive Research & Cryptography.
 - **📱** Cross-Platform Development. Building for Scale.
 - **🎃** Fun Fact: GPU heats my room. Winter hack.
-- **📫** Reach: [X/Twitter](https://x.com/abhishekprajapatt) | [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:prajapattabhishek@gmail.com)
+- **📫** Reach: | [Email](mailto:prajapattabhishek@gmail.com) | [LeetCode](https://leetcode.com/u/abhishekprajapatt)
 
 
 #### **🦍** Stacking wins:
