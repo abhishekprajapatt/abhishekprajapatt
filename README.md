@@ -26,11 +26,11 @@
     <img alt="github-snake" src="https://github.com/abhishekprajapatt/abhishekprajapatt/blob/output/github-snake.svg" />
 </picture>
 </div>
-
+<!--
 # 📈 Skills Progress
-
+<!--
 *(Tracking my journey in AI, Systems, Quantum, Robotics & more—daily commits incoming soon!)*
-
+<!--
 | 🧠 **AI/LLM** | 💾 **Memory/Chips** | ⚙️ **Systems/OS** | 🎨 **Graphics** | 📱 **Mobile Dev** | ☁️ **Cloud/Scale** | 🔧 **Core Tools** | 🤖 **Robotics** | ⚛️ **Quantum AI** | 🛡️ **H** |
 |---------------|---------------------|-------------------|-----------------|---------------|--------------------|-------------------|-----------------|-------------------|---------------|
 | [![llama.cpp](https://img.shields.io/badge/llama.cpp-FF6B35?style=flat&logo=llama&logoColor=white)](https://github.com/ggerganov/llama.cpp) | [![Vector DBs](https://img.shields.io/badge/Vector_DBs-FF6F00?style=flat&logo=database&logoColor=white)](https://pinecone.io) | [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://cplusplus.com) | [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)](https://cplusplus.com) | [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org) | [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com) | [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com) | [![ROS](https://img.shields.io/badge/ROS-CE1741?style=flat&logo=robotics&logoColor=white)](https://ros.org) | [![Qiskit](https://img.shields.io/badge/Qiskit-FF6F00?style=flat&logo=ibm&logoColor=white)](https://qiskit.org) | [![Nmap](https://img.shields.io/badge/Nmap-DC382D?style=flat&logo=networking&logoColor=white)](https://nmap.org) |
@@ -42,12 +42,12 @@
 | [![Dlib (NLP)](https://img.shields.io/badge/Dlib_NLP-FF9800?style=flat&logo=dlib&logoColor=white)](https://dlib.net) | [![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=hadoop&logoColor=white)](https://hadoop.apache.org) | [![Simulink (Rocket Sims)](https://img.shields.io/badge/Simulink_Rocket-FF6F00?style=flat&logo=matlab&logoColor=white)](https://mathworks.com/products/simulink.html) | | | | | [![SLAM (Missile Nav)](https://img.shields.io/badge/SLAM_Nav-2196F3?style=flat&logo=slam&logoColor=white)](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping) | | |
 
 ---
-
+<!--
 *Conquering the entire tech world—one unbreakable skill at a time. The ultimate dev legend rises! 🔥*
 
 <!--
 ### 🧠 Things I code with
-<!--
+
 | **🔥 C++ System Programming** | **⚛️ MERN Full Stack** | **🌟 Next.js Full Stack** | **☕ Java Full Stack** | **☁️ Cloud & DevOps** | **🎨 Tools & Design** | **🧩 Others Basic** |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=coffeescript&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
