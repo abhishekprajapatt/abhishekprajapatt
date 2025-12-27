@@ -26,12 +26,12 @@
     <img alt="github-snake" src="https://github.com/abhishekprajapatt/abhishekprajapatt/blob/output/github-snake.svg" />
 </picture>
 </div>
-<!--
+
 # 📈 Skills Progress
-<!--
+
 *(Tracking my journey in AI, Systems, Quantum, Robotics & more—daily commits incoming soon!)*
-<!--
-| 🧠 **AI/LLM** | 💾 **Memory/Chips** | ⚙️ **Systems/OS** | 🎨 **Graphics** | 📱 **Mobile Dev** | ☁️ **Cloud/Scale** | 🔧 **Core Tools** | 🤖 **Robotics** | ⚛️ **Quantum AI** | 🛡️ **H** |
+
+| 🧠 **AI/LLM** | 💾 **Memory/Chips** | ⚙️ **Systems/OS** | 🎨 **Graphics** | 📱 **Mobile Dev** | ☁️ **Cloud/Scale** | 🔧 **Core Tools** | 🤖 **Robotics** | ⚛️ **Quantum AI** | **👾** |
 |---------------|---------------------|-------------------|-----------------|---------------|--------------------|-------------------|-----------------|-------------------|---------------|
 | [![llama.cpp](https://img.shields.io/badge/llama.cpp-FF6B35?style=flat&logo=llama&logoColor=white)](https://github.com/ggerganov/llama.cpp) | [![Vector DBs](https://img.shields.io/badge/Vector_DBs-FF6F00?style=flat&logo=database&logoColor=white)](https://pinecone.io) | [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://cplusplus.com) | [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)](https://cplusplus.com) | [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org) | [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com) | [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com) | [![ROS](https://img.shields.io/badge/ROS-CE1741?style=flat&logo=robotics&logoColor=white)](https://ros.org) | [![Qiskit](https://img.shields.io/badge/Qiskit-FF6F00?style=flat&logo=ibm&logoColor=white)](https://qiskit.org) | [![Nmap](https://img.shields.io/badge/Nmap-DC382D?style=flat&logo=networking&logoColor=white)](https://nmap.org) |
 | [![TensorFlow C++](https://img.shields.io/badge/TF_C%2B%2B-EB5E28?style=flat&logo=tensorflow&logoColor=white)](https://tensorflow.org/api_docs/cc) | [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io) | [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)](https://cplusplus.com) | [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda) | [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://java.com) | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com) | [![DSA](https://img.shields.io/badge/DSA-4CAF50?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com) | [![PID Control](https://img.shields.io/badge/PID_Control-FF9800?style=flat&logo=matlab&logoColor=white)](https://mathworks.com) | [![Pennylane](https://img.shields.io/badge/Pennylane-00BCD4?style=flat&logo=quantum&logoColor=white)](https://pennylane.ai) | [![Metasploit](https://img.shields.io/badge/Metasploit-E31E24?style=flat&logo=metasploit&logoColor=white)](https://metasploit.com) |
@@ -42,7 +42,7 @@
 | [![Dlib (NLP)](https://img.shields.io/badge/Dlib_NLP-FF9800?style=flat&logo=dlib&logoColor=white)](https://dlib.net) | [![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=hadoop&logoColor=white)](https://hadoop.apache.org) | [![Simulink (Rocket Sims)](https://img.shields.io/badge/Simulink_Rocket-FF6F00?style=flat&logo=matlab&logoColor=white)](https://mathworks.com/products/simulink.html) | | | | | [![SLAM (Missile Nav)](https://img.shields.io/badge/SLAM_Nav-2196F3?style=flat&logo=slam&logoColor=white)](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping) | | |
 
 ---
-<!--
+
 *Conquering the entire tech world—one unbreakable skill at a time. The ultimate dev legend rises! 🔥*
 
 <!--
