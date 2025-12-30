@@ -14,8 +14,8 @@
 - **🛡️** Advanced Security. Offensive Research & Cryptography.
 - **📱** Cross-Platform Development. Building for Scale.
 - **🎃** Fun Fact: GPU heats my room. Winter hack.
-- **🐰** Focus with: [💖 VisionexApp](https://visionex-app.vercel.app)
-- **📫** Reach: [Email](mailto:prajapattabhishek@gmail.com) | [Code](https://leetcode.com/u/abhishekprajapatt)
+- **🐰** Focus with: [VisionexApp](https://visionex-app.vercel.app)
+- **📫** Reach: [Email](mailto:prajapattabhishek@gmail.com)
 
 
 #### **🦍** Stacking wins:
