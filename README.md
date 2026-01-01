@@ -6,7 +6,7 @@
 
 <!--👋🐰🦍🐯🎃-->
 
-- **🎓** Computer Science Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India. Code grind daily.
+- **🎓** CS Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India. Grinding Code Relentlessly Every Day.
 - **⚡** Extreme High-Performance Computing & Systems Mastery.
 - **🧠** Scalable Superintelligence. Cognitive + Quantum AI Engineering.
 - **🤖** Autonomous Robotics & Space Tech. Next-Gen Frontier Systems.
