@@ -7,12 +7,9 @@
 <!--👋🐰🦍🐯🎃-->
 
 - **🎓** Computer Science Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India. Code grind daily.
-- **⚡** High-Performance Computing. Systems Architecture (Rust/C++/CUDA).
-- **🧠** Scalable Machine Intelligence. Cognitive Systems Engineering.
-- **☁️** Distributed Cloud Infrastructure. Orchestration & DevOps.
-- **⚛️** Frontier Computing. Quantum AI & Autonomous Robotics (ROS).
-- **🛡️** Advanced Security. Offensive Research & Cryptography.
-- **📱** Cross-Platform Development. Building for Scale.
+- **⚡** Extreme High-Performance Computing & Systems Mastery.
+- **🧠** Scalable Superintelligence. Cognitive + Quantum AI Engineering.
+- **🤖** Autonomous Robotics & Space Tech. Next-Gen Frontier Systems.
 - **🎃** Fun Fact: GPU heats my room. Winter hack.
 - **🐰** Focus with: [VisionexApp](https://visionex-app.vercel.app)
 - **📫** Reach: [Email](mailto:prajapattabhishek@gmail.com)
