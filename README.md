@@ -1,1 +1,1 @@
-I like intelligent systems.
+I like system intelligence.
