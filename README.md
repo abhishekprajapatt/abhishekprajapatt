@@ -1,1 +1,1 @@
-🐰 I like deep system intelligence.
+🦭 I like deep system intelligence.
